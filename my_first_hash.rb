@@ -1,5 +1,5 @@
 def my_hash
-  my_priority{
+  my_priority={ "health"=>1 
   
 end
 
