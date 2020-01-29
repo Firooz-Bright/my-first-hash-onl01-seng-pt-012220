@@ -1,6 +1,5 @@
 def my_hash
-  my_priority={ "health"=>1 
-  
+  my_priority={ "health"=>1 , "tech job"=>2, "money"=>3}
 end
 
 
